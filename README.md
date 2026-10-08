@@ -69,6 +69,7 @@ Nothing else to install.
 | `index.html` | The app page |
 | `js/` | The 3D scene, the sensor maths and the player model |
 | `serve.py` | The small local server |
+| `trimmed_additional_data.py` | The cleaning additional data model |
 | `raw_data.csv`, `swing_angle_1.mp4`, `swing_angle_2.mp4` | The sample swing and its two videos |
-| `aetekni.csv` | Another recording to try |
+| `aetekni.csv`,`aetekni_trimmed.csv` | Another recording and its cleaned version to try |
 | `vendor/three/` | The 3D library (Three.js), included so it works offline |
